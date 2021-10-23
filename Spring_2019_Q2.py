@@ -15,7 +15,7 @@
  @WaylonLuo 
 
 '''
-#   each list has [processing time, maximum profit, deadline]
+#   each job has [processing time, maximum profit, deadline]
 #   [a[0]    ,a[1]   ,a[2]   ,a[3]   ,a[4]    ]
 #    
 a = [[5,3,10],[4,6,9],[7,2,5],[3,4,8],[8,3,16]]
