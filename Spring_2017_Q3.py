@@ -1,5 +1,7 @@
 '''
- Preliminary Exam Alogrithm Question #3 April 2017
+ Preliminary Exam Alogrithm April 2017
+ Question #3 
+ Transitive Closure
  *** This program is not completed ***
 
 '''
