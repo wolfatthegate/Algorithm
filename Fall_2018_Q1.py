@@ -6,6 +6,8 @@ Problem #1
 Moore's algorithm only works if the majority sample 
 is larger than 50% of the entire sample
 
+Author - Wolf Walker
+
 '''
 
 lst = [8, 4, 8, 5, 8, 8, 3, 4, 8, 8, 5, 8, 7, 8]
