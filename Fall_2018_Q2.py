@@ -1,7 +1,7 @@
 ''' 
 November 2018 Algorithm Problem #2
 
-	      E
+	E
        /\
       X  N
      / \    
