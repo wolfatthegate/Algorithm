@@ -3,8 +3,10 @@ Preliminary Exam Alogrithm  Dec 2020
 Question #1
 
 Longest None repeating substring
-Author - Wolf Walker
+Author - Wolf Walker 
 
+Brute Force - O(n^3) 
+This Algorithm - O(n)
 '''
 
 s = 'examation'
@@ -12,7 +14,6 @@ s = 'examation'
 i = 0
 j = 0
 n = len(s)
-
 lst = []
 
 max_len = 0
