@@ -8,6 +8,9 @@ that do not overlap with each other (for example, if four intervals are given as
 [2, 3], I3 = [1, 4], I4 = [4, 5], then the solution is {I1, I2, I4}). Can you design a linear time greedy
 algorithm to solve the interval scheduling problem? You can ignore the running time of your
 algorithm in the pre-processing phase.
+
+
+code - Wolf Walker
 '''
 
 I = [[1,2], [2,3], [1,4], [4, 5]]
