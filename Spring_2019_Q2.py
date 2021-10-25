@@ -12,7 +12,7 @@
  - repeat the last three steps. 
  
  Author 
- @WaylonLuo 
+ @WolfWalker
 
 '''
 #   each job has [processing time, maximum profit, deadline]
