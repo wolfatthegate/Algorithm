@@ -3,6 +3,7 @@
  Question 1
  Inversion 
 
+Author - Wolf Walker
 '''
 
 #   [0, 1, 2, 3, 4]
