@@ -12,6 +12,8 @@ in size of the array such as to compare elements that are K distant apart.
 Swap the elements if they are not in increasing order.
 Reduce K by half and repeat the process until K becomes zero.
 
+Wolf Walker
+
 '''
 
 import math
