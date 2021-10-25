@@ -3,7 +3,7 @@
  Problem #1
  
  Determine whether there exists 2 elements in A such that the sum is x. 
- Author - Waylon Luo
+ Author - Wolf Walker
  
 '''
        
