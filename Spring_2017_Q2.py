@@ -1,13 +1,11 @@
 '''
 
-April 2017
-
-Problem 2 
+April 2017 Algorithm Problem 2 
 
 VLSI databases
 
 This Algorithm requires more than O(n log n) but it checks whether 
-two or more rectangles are overlapped. 
+two or more rectangles are overlapped. @WolfWalker
 
 Given a list of rectangle coordinates
 
